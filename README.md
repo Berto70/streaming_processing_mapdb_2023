@@ -69,5 +69,5 @@ msg_json = {
 ```
 ---
 ##### Mark 
-30 with Lode (So it is safe to take inspiration from our code ;))
+30 with Lode (So it is safe to take inspiration from our code 😉)
 
