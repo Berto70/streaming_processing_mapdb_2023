@@ -4,7 +4,7 @@ The goal of this project is to reproduce a real-time processing of real data col
 dashboard for live monitoring.
 
 ## 1 Introduction 
-The introductory set of information on the underlying physics and detector details can be found in Section 4.1 of `MAPD_DataProcessing_2023.pdf` document.
+The introductory set of information on the underlying physics and detector details can be found in Section 4.1 of [`MAPD_DataProcessing_2023.pdf`](https://github.com/Berto70/streaming_processing_mapdb_2023/blob/main/MAPD_DataProcessing_2023.pdf) document.
 
 ## 2 Task
 Starting from data collected by the DAQ of the detector, this project will require creating a streaming application to monitor basic detector quality plots as an online streaming application.  
