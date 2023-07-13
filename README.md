@@ -49,11 +49,7 @@ These pieces of information should be wrapped in one message per batch and injec
 ### 2.3 Live plotting
 The results of the processing should be presented in the form of a continuously updating dashboard.  
 A python (or another language) script should consume data from the topic, and create plots and histograms of the aforementioned quantities.
-Simple python modules such as `bokeh` or `pyplot` (in its free version) can help create a continuously updating webpage where to visualize the plots. You are however encouraged to explore and apply any other solution for this part of the task you might consider viable.  
-Example of the dashboard we've created  
-![dashboard_short](https://github.com/Berto70/streaming_processing_mapdb_2023/assets/61018656/6e768fc4-8565-4926-b964-e2795c2c17ff)
-
-
+Simple python modules such as `bokeh` or `pyplot` (in its free version) can help create a continuously updating webpage where to visualize the plots. You are however encouraged to explore and apply any other solution for this part of the task you might consider viable.
 
 ### 2.4 Extras
 Check Section 5.2.4 of the pdf.
